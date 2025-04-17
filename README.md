@@ -1,4 +1,4 @@
-G-Scores 🎯
+G-Scores 🎯  
 G-Scores là một dự án quản lý điểm số của các thí sinh thi THPTQG 2024, được phát triển với:
 
 Backend: Java Spring Boot
