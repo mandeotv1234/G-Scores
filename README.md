@@ -43,8 +43,8 @@ git clone https://github.com/mandeotv1234/G-Scores.git
 cd G-Scores
 2. Chạy toàn bộ project bằng Docker Compose  
 Project đã chuẩn bị sẵn docker-compose.yml, chỉ cần 1 lệnh để chạy cả Backend + Frontend:
-docker-compose up --build
-👉 Frontend sẽ chạy ở http://localhost:3000
+docker-compose up --build  
+👉 Frontend sẽ chạy ở http://localhost:3000  
 👉 Backend sẽ chạy ở http://localhost:8080
 
 ⚙️ Hướng dẫn nếu muốn chạy thủ công từng phần
