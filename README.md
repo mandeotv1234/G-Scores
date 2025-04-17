@@ -117,20 +117,6 @@ Huỳnh Mẫn
 ✅ Luôn sẵn sàng học hỏi và cải thiện dự án từ mọi góp ý
 
 
-## 📸 Giao diện Demo
-
-
-### Tra cứu điểm
-
-![Điểm](./assets/grade.png)
-
-### Trang kết quả chi tiết
-
-![Báo cáo thống kê điểm](./assets/chart.png)
-
-
-🏅 Badges
-
 ✉️ Cảm ơn anh/chị đã dành thời gian xem qua project!
 Nếu có góp ý gì thêm, em luôn sẵn sàng tiếp thu và cải thiện 💪
 
