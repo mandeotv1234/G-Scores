@@ -119,17 +119,14 @@ Huỳnh Mẫn
 
 ## 📸 Giao diện Demo
 
+
 ### Tra cứu điểm
 
-![Điểm](./Frontend/public/images/grade.png)
+![Điểm](./assets/grade.png)
 
 ### Trang kết quả chi tiết
 
-![Báo cáo thống kê điểm](./Frontend/public/assets/chart.png)
-
-
-
-Trang chủ	Bảng điểm theo SBD	Báo cáo thống kê
+![Báo cáo thống kê điểm](./assets/chart.png)
 
 
 🏅 Badges
