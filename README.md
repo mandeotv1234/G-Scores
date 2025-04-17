@@ -121,11 +121,11 @@ Huỳnh Mẫn
 
 ### Tra cứu điểm
 
-![Điểm](./images/grade.png)
+![Điểm](./Frontend/public/images/grade.png)
 
 ### Trang kết quả chi tiết
 
-![Báo cáo thống kê điểm](./assets/chart.png)
+![Báo cáo thống kê điểm](./Frontend/public/assets/chart.png)
 
 
 
