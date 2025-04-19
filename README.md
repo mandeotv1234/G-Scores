@@ -10,7 +10,7 @@ G-Scores là một hệ thống quản lý điểm thi THPT Quốc Gia 2024, gi�
 
 - 🔗 **Frontend**: [https://g-scores-frontend-lyart.vercel.app/](https://g-scores-frontend-lyart.vercel.app/)
 
-> 💤 *Lưu ý: Backend host trên Render, lần truy cập đầu tiên có thể mất ~30 giây để "wake up"*
+> 💤 *Lưu ý: Backend host trên Render, lần truy cập đầu tiên có thể mất ~3-5 phút để "wake up"*
 
 ---
 
